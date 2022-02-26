@@ -1,5 +1,5 @@
-# design-pattern
-Contains sample of design patterns I've previously implemented and study notes for future references
+# concepts
+Contains programming concepts with some sample for guidance
 
 ----
 `S | SRP | Single Responsibility Principle`
